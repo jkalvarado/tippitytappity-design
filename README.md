@@ -36,4 +36,5 @@ classDiagram
   WPMFunctionality <|-- History
   class History{
         +get_history() string
+  }
 ```
